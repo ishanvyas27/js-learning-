@@ -30,3 +30,9 @@ age:20,
     console.log("Hello! Ishan");
     
  }
+// +++++++++++++++++++++Memeory+++++++++++++++++
+
+// two memory 
+// stack (Primitive DataType) , in stack we get copay of the value
+//   Heap (Non-Primitive DataType)  we get reference of the object stored in the heap 
+
