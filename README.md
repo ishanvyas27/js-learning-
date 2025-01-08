@@ -1,2 +1,2 @@
-# js-learning-
+# js-learning-WebDev
 learning javascript repository 
